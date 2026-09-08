@@ -37,6 +37,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [ESP32 Codex Agent Device](https://github.com/mso96/ESP32-Codex-agent-device) - Physical Codex task-status companion for a Waveshare ESP32-S3-Touch-AMOLED-1.8, with lifecycle tracking, runtime and token metrics, and a procedural avatar. ([demo](https://github.com/mso96/ESP32-Codex-agent-device/blob/main/docs/hardware-demo.jpg)) `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 - [Vibe Watch](https://github.com/GOROman/vibewatch) - Wrist-worn M5Stack StopWatch controller for parallel AI coding agents, with physical approve/reject, haptics, and BLE HID. ([demo](https://x.com/GOROman/status/2094369107781283991)) `M5Stack StopWatch`
 - [esp32-ai TinyPoems](https://github.com/jeonghopark/esp32-ai) - Runs a tiny poem language model locally on an M5Stack StickS3 and displays generated poems on its LCD. `M5StickS3`
+- [Codex Microphone](https://github.com/seichris/codex-microphone) - Physical Codex Desktop attention inbox and privacy-gated USB or paired Wi-Fi microphone companion for a Waveshare ESP32-S3-Touch-AMOLED-2.06. ([demo](https://github.com/seichris/codex-microphone/blob/main/docs/codex-mic-github.jpg)) `Waveshare ESP32-S3-Touch-AMOLED-2.06`
 
 ### Displays & ambient
 
@@ -94,6 +95,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [esp-hal](https://github.com/esp-rs/esp-hal) - Bare-metal Rust for ESP32 chips.
 - [MicroPython](https://github.com/micropython/micropython) - Python on the chip, with first-class ESP32 support.
 - [ESPHome](https://github.com/esphome/esphome) - Describe a device in YAML, get firmware; the default way ESP32s enter Home Assistant.
+- [Family mruby](https://github.com/family-mruby/family-mruby) - Multitasking OS running mruby, MicroPython, Lua and BASIC on the chip, with a windowed desktop and an on-device editor. ([demo](https://www.youtube.com/watch?v=9vkRaOoxJJI)) `M5Stack Tab5` or `Narya board`
 
 ### Utilities & SDKs
 
@@ -101,6 +103,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [openHASP](https://github.com/HASwitchPlate/openHASP) - Build custom touchscreen control panels for home automation, driven over MQTT.
 - [psiop](https://github.com/aap/psiop) - A compact software 3D rendering library for the ESP32. ([demo](https://x.com/Alacritic_Super/status/2089987821352403387))
 - [openai-realtime-embedded](https://github.com/openai/openai-realtime-embedded) - OpenAI's official SDK for talking to the Realtime API over WebRTC from an ESP32-S3.
+- [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop) - Arduino library that speaks Apple Wireless Direct Link so an ESP32-S3 shows up in the AirDrop share sheet and receives a photo from an iPhone or Mac, or sends one back, with no pairing and no Wi-Fi network. ([demo](https://youtu.be/D7EdZe_lp2o)) `M5Stack StopWatch`
 
 ### Emulators & simulators
 
